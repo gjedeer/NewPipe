@@ -53,4 +53,6 @@
     <string name="settingsCategoryVideoAudioTitle">VIDEO &amp; AUDIO</string>
     <string name="settingsCategoryVideoInfoTittle">INFO</string>
     <string name="settingsCategoryEtcTitle">ETC</string>
+    <string name="useTor">Use TOR</string>
+    <string name="useTorTitle">Proxy connections via The Onion Router</string>
 </resources>
